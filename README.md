@@ -12,7 +12,7 @@
 ---
 ### 目录
 - 开发环境搭建
-	- 准备工作
+	- [准备工作](https://github.com/Mavis-0211/vue-webpack/blob/master/note/1.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
 	- 目录结构
 	- 安装依赖模块
 	- 配置文件
